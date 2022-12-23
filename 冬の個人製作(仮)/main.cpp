@@ -1,4 +1,5 @@
 ﻿#include <Novice.h>
+#include "Quad.h"
 
 const char kWindowTitle[] = "学籍番号";
 const int kWindowWidth = 1280;
